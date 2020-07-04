@@ -1,2 +1,1 @@
-# search_vk_photo
-VKontakte photo search
+# Поиск фото во вконтакте по нескольким параметрам.
